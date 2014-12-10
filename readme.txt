@@ -4,4 +4,4 @@ git is free software
 	
 	git is a mutable index Stage
 	git is good
-	Today is Wednesday
+	Today is Wednesday,This month is December
