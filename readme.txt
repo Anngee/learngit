@@ -6,5 +6,6 @@ git is free software
 	git is good
 	Today is Wednesday,This month is December
 	Create a new branch is quick and simple
+	//American
 	I'm too young to retire ,but I'm old enough to know better than to answer question like that.
 	too to 
